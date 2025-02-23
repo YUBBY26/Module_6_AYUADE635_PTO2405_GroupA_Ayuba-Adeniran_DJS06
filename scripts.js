@@ -6,7 +6,7 @@ const provinces = ['Western Cape', 'Gauteng', 'Northern Cape', 'Eastern Cape', '
 
 const names = ['Ashwin', 'Sibongile', 'Jan-Hendrik', 'Sifso', 'Shailen', 'Frikkie']
 
-// A list of products with prices:
+// A list of products with prices: 
 
 const products = [
   { product: 'banana', price: "2" },
