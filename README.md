@@ -21,7 +21,7 @@ const names = ['Ashwin', 'Sibongile', 'Jan-Hendrik', 'Sifso', 'Shailen', 'Frikki
 const products = [
   { product: 'banana', price: "2" },
   { product: 'mango', price: 6 },
-  { product: 'potato', price: ' ' },
+  { product: 'potato', price: '' },
   { product: 'avocado', price: "8" },
   { product: 'coffee', price: 10 },
   { product: 'tea', price: '' },
